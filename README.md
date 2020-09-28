@@ -15,7 +15,7 @@ Scratch 转换器可以把 .sb / .sb2 / .sb3 类型的文件转换为 HTML 网�
 
 #### 提出反馈
 
-可以在 issues 中提出你的宝贵意见和建议，说不定会纳入为新的功能哦～期待你的反馈！🤝
+可以在 [issues](https://github.com/winsonwq/scratch-converter/issues) 中提出你的宝贵意见和建议，说不定会纳入为新的功能哦～期待你的反馈！🤝
 
 #### 打赏作者
 

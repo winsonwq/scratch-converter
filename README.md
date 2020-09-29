@@ -2,7 +2,7 @@
 
 > ⚠️ 声明：本作品是个人在业余时间开发完成，不与任何公司的商业相关。同时也感谢开源项目 [htmlifier](https://sheeptester.github.io/htmlifier/) 提供的宝贵经验。
 
-下载地址：[v1.0.0](https://github.com/winsonwq/scratch-converter/releases/tag/v1.0.0) | [Mac 系统](https://github.com/winsonwq/scratch-converter/releases/download/v1.0.0/Scratch-Converter-darwin-setup-1.0.0.dmg) | [Windows 系统](https://github.com/winsonwq/scratch-converter/releases/download/v1.0.0/Scratch-Converter-win32-setup-1.0.0.exe)
+下载安装 v1.0.3 [Mac 系统](https://github.com/winsonwq/scratch-converter/releases/download/v1.0.3/Scratch-Converter-darwin-setup-1.0.3.dmg) | [Windows 系统](https://github.com/winsonwq/scratch-converter/releases/download/v1.0.3/Scratch-Converter-win32-setup-1.0.3.exe)
 
 #### 介绍
 

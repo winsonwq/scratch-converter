@@ -1,5 +1,7 @@
 # Scratch Converter / Scratch 转换器
 
+下载地址：[v1.0.0](https://github.com/winsonwq/scratch-converter/releases/tag/v1.0.0)
+
 #### 介绍
 
 Scratch 转换器可以把 .sb / .sb2 / .sb3 类型的文件转换为 HTML 网页格式，可以离线直接打开运行，便于存储与分享。
@@ -12,6 +14,7 @@ Scratch 转换器可以把 .sb / .sb2 / .sb3 类型的文件转换为 HTML 网�
 - [ ] 完全中英文的支持
 - [ ] 多文件同时转换（考虑中）
 - [ ] 可自动发布到 CDN 网络，用户直接获取网页地址
+- [ ] 可能有一天会开源，考虑到很多方向不确定，暂时自己做
 
 #### 提出反馈
 

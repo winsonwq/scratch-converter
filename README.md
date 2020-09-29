@@ -9,6 +9,8 @@
 Scratch 转换器可以把 .sb / .sb2 / .sb3 类型的文件转换为 HTML 网页格式，可以离线直接打开运行，便于存储与分享。
 目前提供了 Windows 和 Mac 的版本，已经添加了自动更新功能，未来会陆续升级更多小功能。
 
+[DEMO视频](https://www.bilibili.com/video/BV1154y117iX/)
+
 #### 慢慢会更新的功能
 
 - [ ] exe 可运行文件转换

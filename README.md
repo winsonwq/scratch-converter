@@ -1,5 +1,7 @@
 # Scratch Converter / Scratch 转换器
 
+> ⚠️ 声明：本作品是个人在业余时间开发完成，不与任何公司的商业相关。同时也感谢开源项目 [htmlifier](https://sheeptester.github.io/htmlifier/) 的宝贵经验。
+
 下载地址：[v1.0.0](https://github.com/winsonwq/scratch-converter/releases/tag/v1.0.0)
 
 #### 介绍

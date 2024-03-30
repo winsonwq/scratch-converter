@@ -3,7 +3,7 @@
 > ⚠️ 声明：本作品是个人在业余时间开发完成，不与任何公司的商业相关。同时也感谢开源项目 [htmlifier](https://sheeptester.github.io/htmlifier/) 提供的宝贵经验。
 
 
-在线版本更新：[CodeLabs](https://www.labs.codes/apps/scratch-converter) *All in one* coding platform for teens.
+在线版本更新：[Scratch Converter in CodeLabs](https://www.labs.codes/apps/scratch-converter) **All in one** coding platform for teens.
 
 下载安装 v1.1.0-beta.2 | [Mac 系统](https://github.com/winsonwq/scratch-converter/releases/download/v1.1.0-beta.2/Scratch-Converter-darwin-setup-1.1.0-beta.2.dmg) | [Windows 系统](https://github.com/winsonwq/scratch-converter/releases/download/v1.1.0-beta.2/Scratch-Converter-win32-setup-1.1.0-beta.2.exe)
 
